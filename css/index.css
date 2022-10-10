@@ -10,8 +10,7 @@
     border-style: solid;
     border-color: grey;
     border-radius: 5px;
-    height: 100px;
-    width: 1000px;
+    width: 100%;
 }
 .number_1 {
     text-align: center;
