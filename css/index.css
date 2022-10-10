@@ -1,0 +1,126 @@
+.main_page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.table_margin {
+    margin: 5px;
+}
+.table_border {
+    border-style: solid;
+    border-color: grey;
+    border-radius: 5px;
+    height: 100px;
+    width: 1000px;
+}
+.number_1 {
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+}
+.unchanged {
+    text-align: center;
+    background-color: red;
+    color: white;
+    white-space:nowrap;
+}
+.name_1 {
+    text-align: center;
+    background-color: deepskyblue;
+    color: white;
+}
+.imgbox {
+    text-align: center;
+    background-color: #4B4B4B;
+}
+.salebox {
+    text-align: center;
+    background-color: #646464;
+    color: white;
+}
+.effbox {
+    text-align: center;
+    background-color: #646464;
+    color: white;
+}
+.salebody {
+    text-align: center;
+    background-color: #808080;
+    color: white;
+    white-space: nowrap;
+}
+.effbody {
+    text-align: center;
+    background-color: #808080;
+    color: white;
+}
+.unlockhead {
+    text-align: center;
+    background-color: #242424;
+    color: darkorange;
+    white-space:nowrap;
+}
+.unlockbody {
+    text-align: center;
+    background-color: #4B4B4B;
+    color: white;
+}
+.number_2 {
+    text-align: center;
+    background-color: darkviolet;
+    color: white;
+}
+.name_2 {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.number_3 {
+    text-align: center;
+    background-color: #FFCC00;
+    color: white;
+}
+.name_3 {
+    text-align: center;
+    background-color: #FFCC33;
+    color: white;
+}.number_ex {
+    text-align: center;
+    background-color: #C10E3F;
+    color: white;
+}
+.name_ex {
+    text-align: center;
+    background-color: #CD0000;
+    color: white;
+}
+.number_item {
+    text-align: center;
+    background-color: #009900;
+    color: white;
+}
+.name_item {
+    text-align: center;
+    background-color: #339900;
+    color: white;
+}
+.number_curse {
+    text-align: center;
+    background-color: #000000;
+    color: white;
+}
+.name_curse {
+    text-align: center;
+    background-color: #242424;
+    color: white;
+}
+.number_end {
+    text-align: center;
+    background-color: #FF6600;
+    color: white;
+}
+.name_end {
+    text-align: center;
+    background-color: #FF6633;
+    color: white;
+}
